@@ -1,4 +1,4 @@
-# [box breathing](https://breathe.ruslanegorov.ru)
+# [box breathing](https://breathe.ruslanegorov.com)
 
 The four stages speak for themselves: inhale-hold-exhale-hold.
 
